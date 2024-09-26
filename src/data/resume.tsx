@@ -2,7 +2,7 @@ import { Icons } from '@/components/icons';
 import { HomeIcon, NotebookIcon } from 'lucide-react';
 
 export const DATA = {
-  name: 'Hari',
+  name: 'Shaju',
   initials: 'HG',
   url: 'https://dillion.io',
   location: 'Chennai, India',
@@ -11,15 +11,15 @@ export const DATA = {
     'Frontend UI Engineer with background in React and Next.js. Former Software Engineer, now focused on creating intuitive user experiences.',
   summary:
     'Engineer and mentor from Chennai, India, with a double degree in Computer Applications. React, Next.js, and TypeScript enthusiast. Turning coffee into code and sharing tech fun on Instagram.',
-  avatarUrl: '/me-cartoon (1).jpeg',
+  avatarUrl: 'https://i.pinimg.com/564x/2f/60/e9/2f60e942b23d995c8783069bfbc7f1cb.jpg',
   skills: [
     'React',
     'Next.js',
     'Typescript',
-    'Node.js',
-    'Express.js',
-    'MongoDB',
+    // 'Node.js',
+    // 'Express.js',
     'Prisma',
+    'shadcn ui',
     'MaterialUI',
     'TailwindCSS',
     'Docker',
