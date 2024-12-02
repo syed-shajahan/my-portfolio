@@ -27,7 +27,7 @@ export const DATA = {
   ],
   navbar: [
     { href: '/', icon: HomeIcon, label: 'Home' },
-    { href: '/blog', icon: NotebookIcon, label: 'Blog' },
+    // { href: '/blog', icon: NotebookIcon, label: 'Blog' },
   ],
   contact: {
     email: 'hello@example.com',
@@ -35,14 +35,14 @@ export const DATA = {
     social: {
       GitHub: {
         name: 'GitHub',
-        url: 'https://github.com/hari-str',
+        url: 'https://github.com/syed-shajahan',
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: 'LinkedIn',
-        url: 'https://www.linkedin.com/in/hariharanganesan99/',
+        url: 'https://www.linkedin.com/in/syed-shajahan-9669401aa/',
         icon: Icons.linkedin,
         navbar: true,
       },
