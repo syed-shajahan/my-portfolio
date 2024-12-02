@@ -198,7 +198,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: '/vvtrepeaters.png',
+      image: '/vvtrepeaters.PNG',
       video: '',
     },
     {
