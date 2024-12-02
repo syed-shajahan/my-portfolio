@@ -128,7 +128,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: '',
+      image: '/neetguide.png',
       video: '',
     },
     {
@@ -146,7 +146,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: '',
+      image: '/cg.png',
       video: '',
     },
     {
@@ -164,7 +164,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: '',
+      image: '/asta.png',
       video: '',
     },
     {
@@ -181,7 +181,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: '',
+      image: '/itopall.png',
       video: '',
     },
     {
@@ -198,7 +198,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: '/clglogo.png',
+      image: '/vvtrepeaters.png',
       video: '',
     },
     {
@@ -215,7 +215,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: '',
+      image: '/ddpoints.png',
       video: '',
     },
     // {
