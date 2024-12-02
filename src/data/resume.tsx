@@ -120,7 +120,7 @@ export const DATA = {
       active: true,
       description:
         'Developed neet.guide, an AI-powered learning platform tailored for NEET aspirants. The platform provides personalized study plans, practice tests, and dynamic performance tracking. Integrated advanced AI algorithms to adapt the study material based on student progress, ensuring effective learning. Technologies used include React, TypeScript, Tailwind CSS, Shadcn, and Prisma.',
-      technologies: ['React', 'Typescript', 'Redux toolkit', 'MaterialUI', 'Sequlize'],
+      technologies: ['React', 'Typescript', 'Redux toolkit', 'Tailwind CSS', 'S'],
       links: [
         {
           type: 'Website',
@@ -132,41 +132,17 @@ export const DATA = {
       video: '',
     },
     {
-      title: 'NEET and JEE Test Preparation',
+      title: 'College Suggest',
       href: 'https://magicui.design',
       dates: 'June 2023 - Present',
       active: true,
       description:
-        'Created a B2C website offering personalized study resources for NEET and JEE exams, integrating features such as dynamic test taking resources and CCAvenue payment gateway.',
-      technologies: ['Next.js', 'Typescript', 'Recoil', 'Headless UI', 'TailwindCSS', 'CC Avenue'],
-      links: [],
-      image: '',
-      video: '',
-    },
-    {
-      title: 'College Selection Platform',
-      href: '#',
-      dates: 'April 2023 - September 2023',
-      active: true,
-      description:
-        'Contributed to an online platform for college selection, implementing intuitive UI elements and dynamic content using React JS and Next JS',
-      technologies: ['Next.js', 'Typescript', 'Redux toolkit', 'Prisma', 'Meterial UI'],
-      links: [],
-      image: '',
-      video: '',
-    },
-    {
-      title: 'Netflix Streaming App - Clone',
-      href: '#',
-      dates: 'September 2022 - September 2022',
-      active: true,
-      description:
-        'Developed a web application resembling Netflix for streaming content, utilizing TMDB API for movie data, Firebase Authentication for user management, and Redux Toolkit for state management.',
-      technologies: ['React', 'Javascript', 'Firebase', 'Meterial UI'],
+        'Worked on CollegeSuggest.com, a platform designed to help students find suitable colleges based on their preferences. Focused on creating an intuitive, dynamic user interface with advanced search and filter functionalities. Ensured seamless responsiveness and integration across devices. Key technologies: React, TypeScript, Next.js, MUI, Tailwind CSS.',
+      technologies: ['Next.js', 'Typescript', 'Redux toolkit', 'Prisma', 'MaterialUI', 'React'],
       links: [
         {
           type: 'Website',
-          href: 'https://netflix-clone01.vercel.app',
+          href: 'https://www.collegesuggest.com/',
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -174,18 +150,69 @@ export const DATA = {
       video: '',
     },
     {
-      title: 'eCommerce App',
+      title: 'Asta Properties',
       href: '#',
-      dates: 'March 2021 - May 2021',
+      dates: 'April 2023 - September 2023',
       active: true,
       description:
-        'Developed an eCommerce application for managing shoe product orders, sales, and stock, featuring online payment integration.',
+        'Developed a sleek and responsive landing page for Asta Properties, focusing on delivering a user-friendly experience for property browsing. Designed intuitive navigation and incorporated dynamic features to highlight key services, ensuring easy access to listings and property details. The page is fully optimized for a smooth experience across all devices.',
+      technologies: ['Next.js', 'Typescript', 'Redux toolkit', 'Prisma', 'Meterial UI'],
+      links: [
+        {
+          type: 'Website',
+          href: 'https://astaproperties.com/',
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: '',
+      video: '',
+    },
+    {
+      title: 'Institute TopAll',
+      href: '#',
+      dates: 'September 2022 - September 2022',
+      active: true,
+      description: `Developed a user-friendly and responsive landing page for Institute TopAll, designed to engage visitors and promote the platform's features. Focused on creating clear navigation and dynamic content that effectively presents the platform's services. Optimized for a seamless experience across all devices, ensuring easy access to key information.`,
       technologies: ['React', 'Javascript', 'Firebase', 'Meterial UI'],
       links: [
         {
-          type: 'Github',
-          href: 'https://github.com/hari-str/sportyfit-shoe-shop',
-          icon: <Icons.github className="size-3" />,
+          type: 'Website',
+          href: 'https://institute.topall.app/',
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: '',
+      video: '',
+    },
+    {
+      title: ` NEET Repeaters Course`,
+      href: '#',
+      dates: 'March 2021 - May 2021',
+      active: true,
+      description: `Developed a clean, engaging landing page for VVT Coaching's NEET Repeaters Course, aimed at providing students with the essential information and resources to prepare for the NEET exam. Focused on clear calls to action, course details, and testimonials. The page is responsive and optimized for a seamless experience across devices, guiding users to easily register and access course information.`,
+      technologies: ['React', 'Javascript', 'Firebase', 'Meterial UI'],
+      links: [
+        {
+          type: 'Website',
+          href: 'https://www.vvtcoaching.com/neet-repeaters-course/?utm_source=organic+home&utm_medium=website&utm_campaign=NRC+2025&utm_content=carousel+banner',
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: '/clglogo.png',
+      video: '',
+    },
+    {
+      title: ` MyDD Points`,
+      href: '#',
+      dates: 'March 2021 - May 2021',
+      active: true,
+      description: `Worked on the development of MyDD Points and various eCommerce websites, focusing on optimizing user experience and design. Contributed to creating responsive, interactive interfaces, ensuring seamless navigation and functionality. Enhanced eCommerce features for better product presentation and streamlined user interaction across devices.`,
+      technologies: ['React', 'Javascript', 'Firebase', 'Meterial UI'],
+      links: [
+        {
+          type: 'Website',
+          href: 'https://mydd.app/',
+          icon: <Icons.globe className="size-3" />,
         },
       ],
       image: '',
