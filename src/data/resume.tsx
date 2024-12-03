@@ -97,7 +97,7 @@ export const DATA = {
   education: [
     {
       school: 'Mohammed sathak arts and science college',
-      href: 'https://www.mscartsandscience-edu.in/',
+      href: '',
       degree: 'Bsc Computer Science (BSC.CS)',
       logoUrl: '/clglogo.png',
       start: '2014',
