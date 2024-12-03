@@ -36,7 +36,7 @@ export const ResumeCard = ({
   // const [isExpanded, setIsExpanded] = React.useState(true);
 
   return (
-    <Link href={href || '#'} className="block cursor-pointer" onClick={onToggle}>
+    <div className="block cursor-pointer" onClick={onToggle}>
       <Card className="flex">
         <div className="flex-none">
           <Avatar className="border size-12 m-auto bg-muted-background dark:bg-foreground">
@@ -88,6 +88,6 @@ export const ResumeCard = ({
           )}
         </div>
       </Card>
-    </Link>
+    </div>
   );
 };
