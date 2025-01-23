@@ -88,8 +88,8 @@ export const DATA = {
       location: 'Coimbatore, India',
       title: 'Junior Web Designer',
       logoUrl: '/braintreelogo.jpg',
-      start: 'Sep 2022',
-      end: 'Feb 2023',
+      start: 'May 2021',
+      end: 'May 2022',
       description:
         'Spent 1 year as a Junior Web Designer, creating clean, user-friendly web designs and sharpening my skills in HTML, CSS, and JavaScript. This role laid the foundation for my passion for front-end development and taught me the importance of crafting accessible and visually engaging designs.',
     },
